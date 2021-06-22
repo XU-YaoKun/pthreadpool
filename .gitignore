@@ -16,6 +16,7 @@ libs/
 obj/
 *.pyc
 *.pyo
+cmake-build-debug/
 
 # System files
 .DS_Store
@@ -25,3 +26,6 @@ obj/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# IDE config
+.idea/
